@@ -1,0 +1,1 @@
+# config-alias-semantic-commit
