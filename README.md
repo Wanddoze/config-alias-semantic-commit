@@ -2,7 +2,7 @@
 
 
 # Instalação
- - Baixar [.gitconfig](https://github.com/wanddoze/config-alias-semantic-commit/blob/master/Git/.gitconfig).
+ - Baixar [.gitconfig](https://github.com/Wanddoze/config-alias-semantic-commit/blob/main/.gitconfig).
  - Adicionar a nova configuração  utilizando commando ``git config --global -e``
  - Alterar o campo Email e User do .config costumizado
  - Fechar e Abrir terminal
